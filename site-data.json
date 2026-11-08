@@ -1,0 +1,773 @@
+{
+  "_notes": "Edit this file and re-run tools/build_freebies_v2.py. amazon_asin null = no Amazon link yet; set the ASIN string when the paperback is live, then rebuild. Do not invent ASINs.",
+  "site": {
+    "base_url": "https://annabiz-studio.github.io/little-sparrow/",
+    "name": "Little Sparrow",
+    "etsy_shop": "https://littlesparrowpages.etsy.com",
+    "lastmod": "2026-11-08",
+    "pinterest_verify": "956617f6b4330f56ebcfd6d02d5d1266",
+    "hub_title": "Free Printable Animal Coloring Pages | Little Sparrow",
+    "hub_h1": "Free Printable Animal Coloring Pages",
+    "hub_description": "Free printable animal coloring pages for kids, teens and adults: dolphins, dinosaurs, unicorns, koalas, capybaras, mandalas and more. Instant PDF downloads, US Letter.",
+    "hub_intro": "Pick a theme and print three free coloring pages from each Little Sparrow coloring book. Every page is a ready-to-print PDF for US Letter paper, free for home and classroom use. If your family loves them, the full books are on Etsy and Amazon.",
+    "groups": [
+      "Preschool (ages 3-6)",
+      "Kids (ages 6-12)",
+      "Teens & adults"
+    ]
+  },
+  "books": [
+    {
+      "slug": "01-capybara-cafe",
+      "seo_slug": "free-capybara-coloring-pages-for-adults",
+      "book_title": "Cozy Capybara Café",
+      "audience": "Adults & teens",
+      "group": "Teens & adults",
+      "aud_for": "adults",
+      "source_pdf": "01-capybara-cafe/versions/v3/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Capybara Coloring Pages for Adults – Printable PDF",
+      "h1": "Free Capybara Coloring Pages for Adults",
+      "meta_description": "Download 3 free printable capybara coloring pages for adults: cozy café scenes with bold, easy lines. Print at home on US Letter paper and relax.",
+      "intro": [
+        "Looking for free capybara coloring pages for adults? These three printable pages come from Cozy Capybara Café, a Bold & Easy coloring book where chubby capybaras run a tiny coffee shop. You will find a barista pouring latte art, a capybara picnic with a tea set, and a bubble tea maker, all drawn with thick, friendly outlines and big open spaces.",
+        "Bold & Easy means no tiny fiddly details. That makes these pages a gentle way to unwind after work, a calm activity for a rainy afternoon, or a thoughtful printable for a capybara fan. Capybaras are the largest rodents in the world, native to South America, and famous for staying relaxed around almost any other animal, which is exactly the mood of these pages. Print on US Letter paper at 100% scale and color with gel pens, markers or colored pencils. The full book has 40 cozy designs."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592684536",
+      "amazon_asin": "B0HMX22M3M",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "capybara-barista",
+          "caption": "Capybara Barista",
+          "subject": "capybara barista pouring latte art"
+        },
+        {
+          "n": 5,
+          "slug": "capybara-picnic",
+          "caption": "Capybara Tea Picnic",
+          "subject": "capybara picnic with a tea set"
+        },
+        {
+          "n": 13,
+          "slug": "capybara-bubble-tea",
+          "caption": "Bubble Tea Capybara",
+          "subject": "capybara making bubble tea"
+        }
+      ],
+      "related": [
+        "20-mandala-animals",
+        "32-koala-kingdom",
+        "24-ocean-mammals",
+        "29-big-five"
+      ],
+      "hub_blurb": "Cozy café scenes with bold, easy lines for relaxing.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "05-animal-traits",
+      "seo_slug": "free-animal-coloring-pages-for-preschoolers",
+      "book_title": "Brave, Busy & Wise",
+      "audience": "Kids 3-6",
+      "group": "Preschool (ages 3-6)",
+      "aud_for": "preschoolers",
+      "source_pdf": "05-animal-traits/versions/v5/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Animal Coloring Pages for Preschoolers – Printable PDF",
+      "h1": "Free Animal Coloring Pages for Preschoolers",
+      "meta_description": "3 free printable animal coloring pages for preschoolers and kindergarten, ages 3-6. Thick lines, big shapes, and a fun word for every animal. Instant PDF.",
+      "intro": [
+        "These free animal coloring pages for preschoolers are taken from Brave, Busy & Wise, a coloring book that pairs every animal with a word that describes it: the brave lion, the wise owl, the strong elephant. Each page has one big, friendly animal with thick outlines and large areas, so small hands can color without frustration.",
+        "Ask your child what the word means while they color. Why is the owl wise? When have you felt brave? Simple questions like these build vocabulary and talk about feelings, and they turn a quiet coloring session into a mini lesson for ages 3 to 6. The pages work well at home, in a preschool or kindergarten classroom, or for a calm-down corner. Print on US Letter paper at 100% scale and offer chunky crayons or washable markers. The complete book has 40 animals and traits to color and talk about."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592701593",
+      "amazon_asin": "B0HNFX7RQD",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "brave-lion",
+          "caption": "The Brave Lion",
+          "subject": "brave lion"
+        },
+        {
+          "n": 2,
+          "slug": "wise-owl",
+          "caption": "The Wise Owl",
+          "subject": "wise owl"
+        },
+        {
+          "n": 6,
+          "slug": "strong-elephant",
+          "caption": "The Strong Elephant",
+          "subject": "strong elephant"
+        }
+      ],
+      "related": [
+        "06-animals-and-food",
+        "31-abc-animals",
+        "22-dinosaur-friends",
+        "32-koala-kingdom"
+      ],
+      "hub_blurb": "Animals paired with a trait: brave, busy, wise.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "06-animals-and-food",
+      "seo_slug": "free-what-animals-eat-coloring-pages",
+      "book_title": "Who Eats What?",
+      "audience": "Kids 3-6",
+      "group": "Preschool (ages 3-6)",
+      "aud_for": "preschoolers",
+      "source_pdf": "06-animals-and-food/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free What Animals Eat Coloring Pages for Kids – Printable",
+      "h1": "Free What Animals Eat Coloring Pages",
+      "meta_description": "Free printable coloring pages that show what animals eat: panda and bamboo, penguin and fish, koala and eucalyptus. For preschool and kindergarten, ages 3-6.",
+      "intro": [
+        "Does a panda eat carrots? What does a koala like for lunch? These free what-animals-eat coloring pages come from Who Eats What?, a preschool coloring book that shows each animal with its favorite food. The three free pages feature a panda with bamboo, a penguin with a fish, and a koala with eucalyptus leaves.",
+        "Matching animals to their food is an easy first step into science. After coloring, ask your child to guess what other animals eat, or sort the animals into those that eat plants and those that eat fish or insects. Pandas really do eat mostly bamboo, and koalas feed almost entirely on eucalyptus leaves. The drawings use thick outlines and big shapes for ages 3 to 6, and the pages fit nicely into a preschool science week, a farm or zoo theme, or a quiet moment at home. Print on US Letter paper at 100% scale. The full book has 40 animal and food pairs."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592719818",
+      "amazon_asin": "B0HNFYDLYZ",
+      "pages": [
+        {
+          "n": 2,
+          "slug": "panda-eats-bamboo",
+          "caption": "Panda Eats Bamboo",
+          "subject": "panda eating bamboo"
+        },
+        {
+          "n": 6,
+          "slug": "penguin-eats-fish",
+          "caption": "Penguin Eats Fish",
+          "subject": "penguin eating a fish"
+        },
+        {
+          "n": 8,
+          "slug": "koala-eats-eucalyptus",
+          "caption": "Koala Eats Eucalyptus",
+          "subject": "koala eating eucalyptus leaves"
+        }
+      ],
+      "related": [
+        "05-animal-traits",
+        "31-abc-animals",
+        "22-dinosaur-friends",
+        "32-koala-kingdom"
+      ],
+      "hub_blurb": "Animals and their favorite foods, a first science lesson.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "20-mandala-animals",
+      "seo_slug": "free-mandala-animal-coloring-pages",
+      "book_title": "Mandala Animals",
+      "audience": "Teens & adults",
+      "group": "Teens & adults",
+      "aud_for": "teens and adults",
+      "source_pdf": "20-mandala-animals/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Mandala Animal Coloring Pages for Adults – Printable",
+      "h1": "Free Mandala Animal Coloring Pages",
+      "meta_description": "3 free printable mandala animal coloring pages for teens and adults: owl, sea turtle and peacock with intricate patterns. Download the PDFs and print at home.",
+      "intro": [
+        "These free mandala animal coloring pages are for teens and adults who like detailed, patterned art. Each page comes from Mandala Animals, a mindful coloring book in which an animal is built from layers of circles, petals and flowing shapes. Your free set has an owl, a sea turtle and a peacock.",
+        "The word mandala comes from Sanskrit and means circle, and many people enjoy coloring them because the repeating patterns invite slow, focused attention. Start from the center and work outward, or pick a small palette of three or four colors and repeat them for a harmonious result. Fine-tip markers, gel pens and sharp colored pencils all work well. Print on US Letter paper at 100% scale, and use thicker paper if you want to blend or use markers. The complete book includes 40 animal mandalas, from foxes and whales to hummingbirds and koi, so there is always another design waiting."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592705969",
+      "amazon_asin": "B0HNFXKCMR",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "owl-mandala",
+          "caption": "Owl Mandala",
+          "subject": "owl mandala"
+        },
+        {
+          "n": 2,
+          "slug": "sea-turtle-mandala",
+          "caption": "Sea Turtle Mandala",
+          "subject": "sea turtle mandala"
+        },
+        {
+          "n": 13,
+          "slug": "peacock-mandala",
+          "caption": "Peacock Mandala",
+          "subject": "peacock mandala"
+        }
+      ],
+      "related": [
+        "01-capybara-cafe",
+        "27-coral-reef",
+        "28-arctic",
+        "29-big-five"
+      ],
+      "hub_blurb": "Detailed animal mandalas for mindful coloring.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "21-boss-badger",
+      "seo_slug": "free-honey-badger-coloring-pages",
+      "book_title": "Boss Badger",
+      "audience": "Kids 6-12",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "kids",
+      "source_pdf": "21-boss-badger/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Honey Badger Coloring Pages for Kids – Funny Printables",
+      "h1": "Free Honey Badger Coloring Pages for Kids",
+      "meta_description": "3 free printable honey badger coloring pages for kids ages 6-12: a cool badger with sunglasses, a DJ and a skateboarder. Funny animal art, instant PDF download.",
+      "intro": [
+        "If your kid likes funny animal coloring pages, meet the honey badger with swagger. These three free printable pages come from Boss Badger, a coloring book for ages 6 to 12 where a tough, confident honey badger wears sunglasses, scratches records as a DJ and lands a kickflip at the skate park.",
+        "Real honey badgers, also called ratels, live in parts of Africa and Asia and have a reputation for being fearless and tough. They are also known for raiding beehives for honey and grubs. The book takes that attitude and turns it into goofy city scenes that older kids and tweens enjoy, with bold outlines and plenty of detail to shade. It makes a good rainy-day activity, a screen-free break or a birthday party printable. Print on US Letter paper at 100% scale and try markers, colored pencils or gel pens. The full book has 40 honey badger scenes to color."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592727772",
+      "amazon_asin": "B0HP1MP1WF",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "cool-honey-badger",
+          "caption": "Cool Honey Badger",
+          "subject": "cool honey badger wearing sunglasses"
+        },
+        {
+          "n": 3,
+          "slug": "dj-honey-badger",
+          "caption": "DJ Badger",
+          "subject": "honey badger DJ"
+        },
+        {
+          "n": 6,
+          "slug": "skateboard-honey-badger",
+          "caption": "Skateboard Badger",
+          "subject": "honey badger doing a kickflip on a skateboard"
+        }
+      ],
+      "related": [
+        "30-cat-family",
+        "32-koala-kingdom",
+        "26-unicorns",
+        "23-prehistoric-sea"
+      ],
+      "hub_blurb": "A tough, funny honey badger for ages 6-12.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "22-dinosaur-friends",
+      "seo_slug": "free-dinosaur-coloring-pages-for-kids",
+      "book_title": "Dinosaur Friends",
+      "audience": "Kids 3-6",
+      "group": "Preschool (ages 3-6)",
+      "aud_for": "kids",
+      "source_pdf": "22-dinosaur-friends/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Dinosaur Coloring Pages for Kids – Printable PDF",
+      "h1": "Free Dinosaur Coloring Pages for Kids",
+      "meta_description": "Download 3 free printable dinosaur coloring pages for kids ages 3-6: T. rex, Triceratops and Stegosaurus. Cute, easy designs for preschool and home.",
+      "intro": [
+        "Kids who love dinosaurs can start with these free dinosaur coloring pages: a T. rex, a Triceratops and a Stegosaurus. They come from Dinosaur Friends, a coloring book of 40 cute, friendly dinosaurs for ages 3 to 6, each with its real name so children can learn to recognize them.",
+        "The pages use thick outlines and large areas that are easy for little hands. While your child colors, talk about the name. Triceratops means three-horned face, which is easy to see in the drawing, and Stegosaurus is known for the plates along its back. Young dinosaur fans often like to line up the finished pages and sort them into big and small, plant eaters and meat eaters. The pages also suit a dinosaur birthday party, a preschool dinosaur week or a quiet afternoon at home. Print on US Letter paper at 100% scale and use crayons or washable markers. The complete book has 40 named dinosaurs and a dino picnic."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592714715",
+      "amazon_asin": "B0HPYPBTBF",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "t-rex",
+          "caption": "T. Rex",
+          "subject": "T. rex dinosaur"
+        },
+        {
+          "n": 1,
+          "slug": "triceratops",
+          "caption": "Triceratops",
+          "subject": "Triceratops dinosaur"
+        },
+        {
+          "n": 2,
+          "slug": "stegosaurus",
+          "caption": "Stegosaurus",
+          "subject": "Stegosaurus dinosaur"
+        }
+      ],
+      "related": [
+        "23-prehistoric-sea",
+        "05-animal-traits",
+        "06-animals-and-food",
+        "31-abc-animals"
+      ],
+      "hub_blurb": "Cute, named dinosaurs for ages 3-6.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "23-prehistoric-sea",
+      "seo_slug": "free-prehistoric-sea-monster-coloring-pages",
+      "book_title": "Prehistoric Sea Monsters",
+      "audience": "Kids 6-12",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "kids",
+      "source_pdf": "23-prehistoric-sea/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Prehistoric Sea Monster Coloring Pages for Kids",
+      "h1": "Free Prehistoric Sea Monster Coloring Pages",
+      "meta_description": "Free printable prehistoric sea monster coloring pages for kids 6-12: Megalodon, Mosasaurus and Dunkleosteus. Learn real names of ancient ocean giants.",
+      "intro": [
+        "Megalodon, Mosasaurus and Dunkleosteus are the stars of these free prehistoric sea monster coloring pages. They come from Prehistoric Sea Monsters, a coloring book for ages 6 to 12 that shows 40 ancient ocean animals together with their real names, from giant sharks to armored fish and long-necked swimmers.",
+        "This is a good page set for kids who are curious about fossils and deep time. Megalodon was an enormous prehistoric shark, and Mosasaurus was a huge marine reptile that is often mistaken for a dinosaur, although it belonged to a different group. Dunkleosteus was a fish covered in heavy bony armor. Ask your child to compare how each animal is built for hunting, and look at the teeth, fins and body shapes in the drawings. The pages work for science units, homeschool lessons, museum visits or a rainy afternoon. Print on US Letter paper at 100% scale and color with markers or colored pencils. The full book has 40 ocean giants to color."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592732658",
+      "amazon_asin": "B0HPYV5XXP",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "megalodon",
+          "caption": "Megalodon",
+          "subject": "Megalodon shark"
+        },
+        {
+          "n": 1,
+          "slug": "mosasaurus",
+          "caption": "Mosasaurus",
+          "subject": "Mosasaurus sea reptile"
+        },
+        {
+          "n": 4,
+          "slug": "dunkleosteus",
+          "caption": "Dunkleosteus",
+          "subject": "Dunkleosteus armored fish"
+        }
+      ],
+      "related": [
+        "22-dinosaur-friends",
+        "25-dolphins-of-the-world",
+        "24-ocean-mammals",
+        "27-coral-reef"
+      ],
+      "hub_blurb": "Ancient ocean giants with their real names.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "24-ocean-mammals",
+      "seo_slug": "free-whale-and-sea-otter-coloring-pages",
+      "book_title": "Whales, Seals & Sea Otters",
+      "audience": "All ages",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "all ages",
+      "source_pdf": "24-ocean-mammals/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Whale and Sea Otter Coloring Pages – Printable PDF",
+      "h1": "Free Whale and Sea Otter Coloring Pages",
+      "meta_description": "3 free printable whale, narwhal and sea otter coloring pages for kids and adults. Bold, easy designs for all ages. Download the PDFs and print at home.",
+      "intro": [
+        "These free whale and sea otter coloring pages are bold and easy enough for a young child and relaxing enough for an adult. They come from Whales, Seals & Sea Otters, a coloring book of ocean mammals. The free set has a breaching humpback whale, a narwhal with its long tusk and a sea otter floating on its back.",
+        "Ocean mammals are a great topic because they breathe air like us even though they live in the sea. The narwhal's tusk is actually a very long tooth, and sea otters are known for floating on their backs and even holding paws while they rest. Use the pages for an ocean theme, a marine science lesson, or a family coloring evening where everyone works on the same animal. The lines are thick and the spaces are generous, so markers, crayons and colored pencils all work well. Print on US Letter paper at 100% scale. The full book has 40 pages with whales, seals, walruses, manatees and polar bears."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592735178",
+      "amazon_asin": "B0HPZX6PGV",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "humpback-whale",
+          "caption": "Humpback Whale",
+          "subject": "breaching humpback whale"
+        },
+        {
+          "n": 4,
+          "slug": "narwhal",
+          "caption": "Narwhal",
+          "subject": "narwhal"
+        },
+        {
+          "n": 9,
+          "slug": "sea-otter",
+          "caption": "Sea Otter",
+          "subject": "floating sea otter"
+        }
+      ],
+      "related": [
+        "25-dolphins-of-the-world",
+        "27-coral-reef",
+        "28-arctic",
+        "23-prehistoric-sea"
+      ],
+      "hub_blurb": "Whales, seals, otters and more, bold and easy.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "25-dolphins-of-the-world",
+      "seo_slug": "free-dolphin-coloring-pages",
+      "book_title": "Dolphins of the World",
+      "audience": "Kids 6-12",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "kids",
+      "source_pdf": "25-dolphins-of-the-world/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Dolphin Coloring Pages for Kids – Printable PDF",
+      "h1": "Free Dolphin Coloring Pages for Kids",
+      "meta_description": "Download 3 free printable dolphin coloring pages for kids ages 6-12: bottlenose dolphin, orca and Amazon river dolphin, each with its real species name.",
+      "intro": [
+        "These free dolphin coloring pages for kids come from Dolphins of the World, a coloring book that shows 40 different dolphins with their real species names. Your free set has a bottlenose dolphin, an orca and an Amazon river dolphin, each drawn with the correct body shape, beak and fins so children can learn to tell species apart as they color.",
+        "Did you know the orca is the largest member of the dolphin family, even though it is often called a killer whale? Amazon river dolphins live in rivers instead of the sea, and some of them turn pink as they grow older. Ask your child where each dolphin lives, then find the place on a map. These pages are a nice fit for ocean units, marine biology clubs and quiet classroom time for ages 6 to 12. Print on US Letter paper at 100% scale and color with markers or colored pencils. The full book has 40 species, from common dolphins to rare river dolphins."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592737914",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "bottlenose-dolphin",
+          "caption": "Bottlenose Dolphin",
+          "subject": "bottlenose dolphin"
+        },
+        {
+          "n": 7,
+          "slug": "orca",
+          "caption": "Orca",
+          "subject": "orca"
+        },
+        {
+          "n": 28,
+          "slug": "amazon-river-dolphin",
+          "caption": "Amazon River Dolphin",
+          "subject": "Amazon river dolphin"
+        }
+      ],
+      "related": [
+        "24-ocean-mammals",
+        "27-coral-reef",
+        "23-prehistoric-sea",
+        "28-arctic"
+      ],
+      "hub_blurb": "40 dolphin species with their real names.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    },
+    {
+      "slug": "26-unicorns",
+      "seo_slug": "free-unicorn-coloring-pages",
+      "book_title": "Unicorn Dreams",
+      "audience": "Kids 6-12",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "kids",
+      "source_pdf": "26-unicorns/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Unicorn Coloring Pages for Kids – Printable PDF",
+      "h1": "Free Unicorn Coloring Pages for Kids",
+      "meta_description": "3 free printable unicorn coloring pages for kids ages 6-12: a galloping unicorn, a winged unicorn with a rainbow and a unicorn at a castle. Instant PDF download.",
+      "intro": [
+        "Here are three free unicorn coloring pages to print at home: a unicorn galloping through wildflowers, a winged unicorn flying above the clouds and a rainbow, and a unicorn standing in front of a fairytale castle. They are taken from Unicorn Dreams, a coloring book for kids ages 6 to 12 with 40 magical scenes.",
+        "Unicorn pages are popular for birthday parties, rainy days and creative storytelling. After coloring, ask your child to invent a name for the unicorn and write a short story about where it lives. Fun fact: the unicorn is the national animal of Scotland. The designs have clear outlines with medium-sized areas and enough detail to make shading, patterns and rainbow manes fun for older kids. Print on US Letter paper at 100% scale. Glitter gel pens, metallic markers and colored pencils all look great. The full book has 40 unicorn scenes, from meadows and waterfalls to starry skies."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592891189",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "galloping-unicorn",
+          "caption": "Galloping Unicorn",
+          "subject": "galloping unicorn in a flower meadow"
+        },
+        {
+          "n": 1,
+          "slug": "winged-unicorn-rainbow",
+          "caption": "Winged Unicorn and Rainbow",
+          "subject": "winged unicorn flying above clouds and a rainbow"
+        },
+        {
+          "n": 7,
+          "slug": "unicorn-castle",
+          "caption": "Unicorn at the Castle",
+          "subject": "unicorn in front of a fairytale castle"
+        }
+      ],
+      "related": [
+        "30-cat-family",
+        "32-koala-kingdom",
+        "25-dolphins-of-the-world",
+        "21-boss-badger"
+      ],
+      "hub_blurb": "Magical unicorns, wings and rainbows.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    },
+    {
+      "slug": "27-coral-reef",
+      "seo_slug": "free-coral-reef-coloring-pages",
+      "book_title": "Coral Reef Wonders",
+      "audience": "Teens & adults",
+      "group": "Teens & adults",
+      "aud_for": "adults",
+      "source_pdf": "27-coral-reef/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Coral Reef Coloring Pages for Adults – Printable PDF",
+      "h1": "Free Coral Reef Coloring Pages for Adults",
+      "meta_description": "Free printable coral reef coloring pages for teens and adults: green sea turtle, clownfish and manta ray. Realistic ocean life to color. Download and print.",
+      "intro": [
+        "Dive into three free coral reef coloring pages made for teens and adults: a green sea turtle gliding over the reef, a pair of clownfish in an anemone and a manta ray soaring above the corals. They come from Coral Reef Wonders, a relaxing ocean coloring book with realistic sea life and plenty of detail to shade.",
+        "Coral reefs cover only a small part of the ocean floor, yet they are home to a large share of all marine species, which is why artists and divers love to draw them. Clownfish shelter among the tentacles of sea anemones, and manta rays are gentle filter feeders. Use blues, teals and warm corals for a classic look, or try an unexpected palette for a dreamy underwater scene. Fine-tip markers, colored pencils and gel pens work well. Print on US Letter paper at 100% scale, and use heavier paper if you plan to blend. The complete book includes 40 reef animals, including seahorses, octopus and a busy reef scene."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592891791",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "green-sea-turtle",
+          "caption": "Green Sea Turtle",
+          "subject": "green sea turtle on a coral reef"
+        },
+        {
+          "n": 1,
+          "slug": "clownfish-anemone",
+          "caption": "Clownfish in an Anemone",
+          "subject": "pair of clownfish in a sea anemone"
+        },
+        {
+          "n": 2,
+          "slug": "manta-ray",
+          "caption": "Manta Ray",
+          "subject": "manta ray above a coral reef"
+        }
+      ],
+      "related": [
+        "24-ocean-mammals",
+        "25-dolphins-of-the-world",
+        "28-arctic",
+        "20-mandala-animals"
+      ],
+      "hub_blurb": "Realistic reef animals with detail to shade.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    },
+    {
+      "slug": "28-arctic",
+      "seo_slug": "free-arctic-animals-coloring-pages",
+      "book_title": "Arctic Wild",
+      "audience": "Teens & adults",
+      "group": "Teens & adults",
+      "aud_for": "adults",
+      "source_pdf": "28-arctic/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Arctic Animals Coloring Pages for Adults – Printable",
+      "h1": "Free Arctic Animals Coloring Pages",
+      "meta_description": "3 free printable arctic animal coloring pages for teens and adults: polar bear, arctic fox and snowy owl. Realistic winter wildlife to color. Instant PDF.",
+      "intro": [
+        "Bring the frozen north to your table with these free arctic animals coloring pages. The three pages come from Arctic Wild, a realistic coloring book for teens and adults, and show a polar bear on sea ice, an arctic fox curled up in the snow and a snowy owl perched on a frozen stump.",
+        "Realistic wildlife pages reward patience. Look for the texture of thick fur and feathers and build it up with layers of light strokes. Polar bears have black skin under their white-looking fur, and arctic foxes change the color of their coats with the seasons. Cool blues, soft grays and a little warm yellow make a lovely winter palette, while colored pencils are especially good for fur. These pages are a cozy activity for winter evenings, a nature lover gift or a calm break for a science class. Print on US Letter paper at 100% scale. The full book has 40 arctic animals, from wolves and orcas to narwhals and puffins."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592907376",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "polar-bear",
+          "caption": "Polar Bear",
+          "subject": "polar bear walking across sea ice"
+        },
+        {
+          "n": 6,
+          "slug": "arctic-fox",
+          "caption": "Arctic Fox",
+          "subject": "arctic fox curled up in the snow"
+        },
+        {
+          "n": 8,
+          "slug": "snowy-owl",
+          "caption": "Snowy Owl",
+          "subject": "snowy owl on a frozen stump"
+        }
+      ],
+      "related": [
+        "29-big-five",
+        "24-ocean-mammals",
+        "20-mandala-animals",
+        "27-coral-reef"
+      ],
+      "hub_blurb": "Realistic polar wildlife for winter coloring.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    },
+    {
+      "slug": "29-big-five",
+      "seo_slug": "free-safari-animal-coloring-pages",
+      "book_title": "Africa's Big Five",
+      "audience": "Teens & adults",
+      "group": "Teens & adults",
+      "aud_for": "adults",
+      "source_pdf": "29-big-five/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Safari Animal Coloring Pages for Adults – Printable",
+      "h1": "Free Safari Animal Coloring Pages",
+      "meta_description": "3 free printable safari animal coloring pages for teens and adults: lion, leopard and elephants from Africa's Big Five. Realistic wildlife art, instant PDF.",
+      "intro": [
+        "Take a safari from your kitchen table with these free safari animal coloring pages. They come from Africa's Big Five, a realistic coloring book for teens and adults. The free set has a male lion resting on a rock, a leopard lounging on a tree branch and an elephant herd walking to a waterhole.",
+        "The Big Five is a famous safari list made up of the lion, leopard, elephant, rhino and Cape buffalo. The name started as a hunting term but today it describes the animals visitors most hope to see in African national parks. The drawings are realistic, with manes, spots, wrinkles and grass textures that invite careful shading. Warm golds, browns and sunset oranges bring the savanna to life, and colored pencils give soft fur. Print on US Letter paper at 100% scale. These pages also make a nice gift for an animal lover or a safari fan. The full book has 40 pages with all five animals, including cubs, calves and sunset scenes."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592907844",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "male-lion",
+          "caption": "Male Lion",
+          "subject": "male lion resting on a rock"
+        },
+        {
+          "n": 5,
+          "slug": "leopard-on-branch",
+          "caption": "Leopard on a Branch",
+          "subject": "leopard lounging on a tree branch"
+        },
+        {
+          "n": 10,
+          "slug": "elephant-herd",
+          "caption": "Elephant Herd",
+          "subject": "elephant herd walking to a waterhole"
+        }
+      ],
+      "related": [
+        "28-arctic",
+        "20-mandala-animals",
+        "30-cat-family",
+        "27-coral-reef"
+      ],
+      "hub_blurb": "Lions, leopards, elephants and more, realistic.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    },
+    {
+      "slug": "30-cat-family",
+      "seo_slug": "free-cat-coloring-pages",
+      "book_title": "The Amazing Cat Family",
+      "audience": "Kids 6-12",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "kids",
+      "source_pdf": "30-cat-family/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Cat Coloring Pages for Kids – Wild Cats and Pets",
+      "h1": "Free Cat Coloring Pages for Kids",
+      "meta_description": "Free printable cat coloring pages for kids ages 6-12: lion, tiger and snow leopard, each with its name. Learn about wild cats and house cats. Download the PDFs.",
+      "intro": [
+        "Cat lovers will enjoy these free cat coloring pages: a lion, a tiger and a snow leopard. They come from The Amazing Cat Family, a coloring book for kids ages 6 to 12 that shows 40 wild cats and pet cat breeds with their names, from lions and cheetahs to Sphynx and Maine Coon cats.",
+        "Cats make a great topic for animal science. The tiger is the largest wild cat, the lion is the one cat that lives in family groups called prides, and the snow leopard lives high in the mountains of Asia and cannot roar. Ask your child to compare the stripes, spots and manes, and notice how each coat helps the animal hide or stay warm. The pages suit animal units, homeschool lessons, birthday parties and quiet time at home. Print on US Letter paper at 100% scale and color with markers or colored pencils. The full book has 40 pages."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592893221",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "lion",
+          "caption": "Lion",
+          "subject": "lion"
+        },
+        {
+          "n": 1,
+          "slug": "tiger",
+          "caption": "Tiger",
+          "subject": "tiger"
+        },
+        {
+          "n": 5,
+          "slug": "snow-leopard",
+          "caption": "Snow Leopard",
+          "subject": "snow leopard"
+        }
+      ],
+      "related": [
+        "29-big-five",
+        "26-unicorns",
+        "32-koala-kingdom",
+        "21-boss-badger"
+      ],
+      "hub_blurb": "Wild cats and house cats with their names.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    },
+    {
+      "slug": "31-abc-animals",
+      "seo_slug": "free-abc-animal-coloring-pages",
+      "book_title": "ABC Animal Friends",
+      "audience": "Kids 3-6",
+      "group": "Preschool (ages 3-6)",
+      "aud_for": "preschoolers",
+      "source_pdf": "31-abc-animals/versions/v5/KDP/interior-standard-bw.pdf",
+      "total_pages": 26,
+      "page_title": "Free ABC Animal Coloring Pages for Preschool – Printable",
+      "h1": "Free ABC Animal Coloring Pages",
+      "meta_description": "3 free printable ABC animal coloring pages for preschool and kindergarten, ages 3-6: A is for Alligator, K is for Koala, N is for Narwhal. Instant PDF.",
+      "intro": [
+        "These free ABC animal coloring pages help young children connect letters with animals they love. They come from ABC Animal Friends, an alphabet coloring book for ages 3 to 6 with one cute animal for every letter from A to Z. Your free set has A is for Alligator, K is for Koala and N is for Narwhal.",
+        "Each page has one big, friendly animal with thick outlines and large areas, so preschoolers can color without getting frustrated. As you color together, say the letter, its sound and the animal name out loud, then look for the same letter in books, signs and names around the house. Pages like these fit nicely into a letter of the week routine, a kindergarten center or a homeschool morning. Print on US Letter paper at 100% scale and use chunky crayons or washable markers. The complete book has 26 animals, from Quail to Zebra, with a surprise X-ray fish for the tricky letter X."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4592893717",
+      "amazon_asin": "B0HPZ975RK",
+      "pages": [
+        {
+          "n": 0,
+          "slug": "a-is-for-alligator",
+          "caption": "A is for Alligator",
+          "subject": "letter A alligator"
+        },
+        {
+          "n": 10,
+          "slug": "k-is-for-koala",
+          "caption": "K is for Koala",
+          "subject": "letter K koala"
+        },
+        {
+          "n": 13,
+          "slug": "n-is-for-narwhal",
+          "caption": "N is for Narwhal",
+          "subject": "letter N narwhal"
+        }
+      ],
+      "related": [
+        "05-animal-traits",
+        "06-animals-and-food",
+        "22-dinosaur-friends",
+        "32-koala-kingdom"
+      ],
+      "hub_blurb": "One cute animal for every letter, A to Z.",
+      "amazon_asin_todo": null
+    },
+    {
+      "slug": "32-koala-kingdom",
+      "seo_slug": "free-koala-coloring-pages",
+      "book_title": "Koala Kingdom",
+      "audience": "Kids 6-12",
+      "group": "Kids (ages 6-12)",
+      "aud_for": "kids",
+      "source_pdf": "32-koala-kingdom/versions/v4/KDP/interior-standard-bw.pdf",
+      "total_pages": 40,
+      "page_title": "Free Koala Coloring Pages for Kids – Printable with Facts",
+      "h1": "Free Koala Coloring Pages for Kids",
+      "meta_description": "3 free printable koala coloring pages for kids ages 6-12: a joey ride, a sleepy koala and leaf lunch. Learn real koala facts while you color. Instant PDF.",
+      "intro": [
+        "Free koala coloring pages for kids are easy to find, but these come with real koala facts. The three pages are from Koala Kingdom, a coloring book for ages 6 to 12 with 40 cute koalas. Your free set shows a joey riding on its mother's back, a sleepy koala and a koala having a leaf lunch.",
+        "Koalas are not bears. They are marsupials, which means a baby koala, called a joey, spends its first months in its mother's pouch before riding on her back. Koalas eat mostly eucalyptus leaves and sleep many hours a day to save energy. Ask your child what they notice in each drawing and compare it with those facts. The pages work well for Australia themes, animal units and quiet time at home. Print on US Letter paper at 100% scale and color with markers, crayons or colored pencils. The full book has 40 koala pages, from tree hugs and rainy days to a bush walk."
+      ],
+      "etsy_url": "https://littlesparrowpages.etsy.com/listing/4595112620",
+      "amazon_asin": null,
+      "pages": [
+        {
+          "n": 0,
+          "slug": "joey-ride",
+          "caption": "Joey Ride",
+          "subject": "koala joey riding on its mother's back"
+        },
+        {
+          "n": 1,
+          "slug": "sleepy-koala",
+          "caption": "Sleepy Koala",
+          "subject": "sleepy koala"
+        },
+        {
+          "n": 2,
+          "slug": "leaf-lunch",
+          "caption": "Leaf Lunch",
+          "subject": "koala eating eucalyptus leaves"
+        }
+      ],
+      "related": [
+        "05-animal-traits",
+        "26-unicorns",
+        "30-cat-family",
+        "21-boss-badger"
+      ],
+      "hub_blurb": "Cute koalas with real koala facts.",
+      "amazon_asin_todo": "FILL ASIN WHEN LIVE (https://www.amazon.com/dp/<ASIN>)"
+    }
+  ]
+}

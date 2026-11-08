@@ -1,0 +1,35 @@
+:root{--bg:#fffaf3;--ink:#2b2b2b;--accent:#e07a2f;--accent-ink:#a8531a;--muted:#6b6b6b;--card:#ffffff;--line:#eadfce}
+@media (prefers-color-scheme: dark){:root{--bg:#1d1b19;--ink:#f1ece6;--muted:#b8b0a6;--card:#2a2724;--line:#3b3631;--accent-ink:#f0a46c}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,Segoe UI,Arial,sans-serif;line-height:1.6}
+a{color:var(--accent-ink)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+.crumbs{font-size:.85rem;color:var(--muted);padding:14px 0 0}
+.crumbs a{color:var(--muted)}
+header.hero{padding:18px 0 6px}
+h1{margin:6px 0 10px;font-size:clamp(1.6rem,4.5vw,2.3rem);line-height:1.2}
+h2{font-size:1.35rem;margin:36px 0 12px}
+h3{font-size:1.05rem;margin:0}
+.intro{max-width:760px}
+.intro p{margin:0 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.card{background:var(--card);border-radius:14px;overflow:hidden;box-shadow:0 2px 10px rgba(0,0,0,.08);display:flex;flex-direction:column}
+.card img{width:100%;height:auto;aspect-ratio:8.5/11;object-fit:cover;background:#fff;display:block}
+.card .body{padding:12px 14px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.aud,.blurb{margin:0;color:var(--muted);font-size:.9rem}
+.btn{display:block;text-align:center;padding:11px 12px;border-radius:10px;text-decoration:none;font-weight:600}
+.free{background:var(--accent);color:#fff}
+.buy{border:2px solid var(--accent);color:var(--accent-ink);background:transparent}
+.btn:hover,.btn:focus{filter:brightness(.95)}
+.tips{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;max-width:760px}
+.tips ul{margin:6px 0 0;padding-left:20px}
+.getall{background:var(--card);border:2px solid var(--accent);border-radius:16px;padding:20px;max-width:760px}
+.getall p{margin:0 0 14px}
+.btnrow{display:flex;flex-wrap:wrap;gap:12px}
+.btnrow .btn{flex:1 1 220px}
+.more .card .body{padding:10px 12px 14px}
+.more a.cardlink{text-decoration:none;color:inherit;display:flex;flex-direction:column;height:100%}
+.group{margin-top:30px}
+header.hub{text-align:center;padding:32px 0 8px}
+header.hub p{margin:0 auto;max-width:680px;color:var(--muted)}
+footer{text-align:center;padding:34px 16px 44px;color:var(--muted);font-size:.85rem}
